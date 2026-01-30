@@ -25,5 +25,6 @@
         <td>cell 4</td>
       </tr>
     </table>
+    <img src="https://en.wikipedia.org/wiki/File:Five_Squared.svg"/>
   </body>
 </html>
