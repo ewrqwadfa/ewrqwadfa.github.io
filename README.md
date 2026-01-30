@@ -4,7 +4,7 @@
   <head>
     <style>
       img {
-        width: 200px;
+        max-width: 35%;
       }
     </style>
   </head>
