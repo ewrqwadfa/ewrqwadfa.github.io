@@ -3,9 +3,7 @@
 <html>
   <head>
     <style>
-      img {
-        max-width: 35%;
-      }
+      p { color: red;}
     </style>
   </head>
   <body>
