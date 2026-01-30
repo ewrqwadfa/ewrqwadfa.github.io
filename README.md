@@ -25,6 +25,6 @@
         <td>cell 4</td>
       </tr>
     </table>
-    <img src="https://en.wikipedia.org/wiki/File:Five_Squared.svg"/>
+    <img src="https://www.nomadfoods.com/wp-content/uploads/2018/08/placeholder-1-e1533569576673.png"/>
   </body>
 </html>
