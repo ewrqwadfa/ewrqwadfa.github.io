@@ -26,6 +26,16 @@
         <td>cell 4</td>
       </tr>
     </table>
+    <p>answers to the questions</p>
+    <ol>
+      <li>the internet infrastructure that connects everything around the world</li>
+      <li>the client requests things while the server provides them</li>
+      <li>they act as the physical infrastructure of the internet</li>
+      <li>the tcp/ip model acts as a framework for communication, providing standardized reliable addressing and transmission</li>
+      <li>websites, downloads, communication</li>
+      <li>hypertext is a system of non-linear text containing hyperlinks that link to other similar sections</li>
+      <li>the internet is the infrastructure while the web is the content</li>
+    </ol>
     <iframe width="400" height="300"
       src="https://www.youtube.com/watch?v=cElhIDdGz7M">
     </iframe>
