@@ -15,5 +15,15 @@
       <li>unordered list item 1</li>
       <li>unordered list item 2</li>
     </ul>
+    <table>
+      <tr>
+        <td>cell 1</td>
+        <td>cell 2</td>
+      </tr>
+      <tr>
+        <td>cell 3</td>
+        <td>cell 4</td>
+      </tr>
+    </table>
   </body>
 </html>
