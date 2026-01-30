@@ -1,11 +1,6 @@
 <!DOCTYPE html>
 
 <html>
-  <head>
-    <style>
-      p { color: red;}
-    </style>
-  </head>
   <body>
     <h1>heading</h1>
     <h4>sub-heading</h4>
